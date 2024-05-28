@@ -5,7 +5,7 @@ https://plasma-astro.cita.utoronto.ca/
 # Moderators:
 
 - James Beattie
-- Bart Rippderda
+- Bart Ripperda
 - Daniel Xiao
 - Jay Li
 

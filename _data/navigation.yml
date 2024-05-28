@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Meeting Schedule"
+    url: /schedule/
+  - title: "Publications"
+    url: /publications/
+  - title: "Our Team"
+    url: /team/
+  - title: "Contact"
+    url: /contact/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

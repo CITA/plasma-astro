@@ -11,7 +11,6 @@ comments: false
 - James Beattie (Joint CITA Fellow & Princeton Postdoctoral Associate)
 - Luciano Combi (Joint Perimeter & CITA Fellow)
 - Janosz Dewberry (CITA Fellow)
-- Labani Mallick (CITA National Fellow, University of Manitoba)
 - Gibwa Musoke (CITA Fellow)
 - Sean Ressler (CITA Fellow)
 - Braden Gail (graduate student, CITA & University of Toronto)
